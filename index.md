@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Hell
 
 You can use the [editor on GitHub](https://github.com/florence-ctrl/Cours-Arts-num-riques/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
