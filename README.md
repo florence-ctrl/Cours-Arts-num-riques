@@ -1,2 +1,3 @@
-# Cours-Arts-num-riques
+# Cours-Arts-numériques
 apprentissages pour le cours
+**Les arts numériques**
